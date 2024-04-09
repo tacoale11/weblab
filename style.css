@@ -1,0 +1,13 @@
+body{
+  background-image: url();  
+    background: violet;
+    background-repeat: no-repeat;
+    background-image: url(imagenes/limones\ para\ pagina.jpg);
+    background-size: cover;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightblue;
+}
+
+
+
