@@ -1,0 +1,22 @@
+.cuadrado{
+    width: 300px;
+    height: 300px;
+   background-color: red; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.circulo{
+    width: 300px;
+    height: 300px;
+    background-color: darkorange;
+border-radius: 400px;
+}
+
+
+.gafita{
+    width: 200px;
+    height: 200px;
+    clip-path: polygon(evenodd, 25% 25%, 50% 25%, 75% 50%, 50% 75%, 25% 50%, 37.5% 37.5%, 37.5% 62.5%, 62.5% 62.5%, 62.5% 37.5%, 50% 37.5%, 62.5% 50%, 50% 62.5%, 37.5% 50%, 43.75% 43.75%, 50% 43.75%, 56.25% 50%, 50% 56.25%, 43.75% 50%, 46.88% 46.88%, 53.13% 46.88%, 53.13% 53.13%, 46.88% 53.13%, 46.88% 46.88%, 50% 43.75%, 56.25% 43.75%, 56.25% 56.25%, 43.75% 56.25%, 43.75% 43.75%, 50% 37.5%, 37.5% 37.5%, 50% 25%, 75% 25%, 75% 75%, 25% 75%, 0% 50%, 50% 0%, 100% 50%, 50% 100%, 25% 75%);
+background-color: red
+}
